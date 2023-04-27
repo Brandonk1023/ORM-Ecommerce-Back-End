@@ -2,13 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+This is a mysql application for the backend of an e-commerce site. The motivation behind this application was to further develop my skills with working in mysql, and sequelize to build an interactive backend for an e-commerce site.
 
 
 ## Table of Contents
@@ -17,6 +11,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+
 
 ## Installation
 
@@ -35,10 +30,6 @@ To start using the program the user will need to first seed the database, then s
 
 "npm seed"
 "npm start"
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ![alt text](assets/images/screenshot.png)
 
