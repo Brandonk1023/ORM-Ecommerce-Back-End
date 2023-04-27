@@ -9,6 +9,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
+
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -18,9 +20,21 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To install the application the user will need to run the following commands:
+ "npm i"
+ "npm i mysql2"
+ "npm i sequelize"
+ "npm i express"
+ 
+ These will install the dependencies needed to run the application.
+
 
 ## Usage
+
+To start using the program the user will need to first seed the database, then start the program using the following commands:
+
+"npm seed"
+"npm start"
 
 Provide instructions and examples for use. Include screenshots as needed.
 
