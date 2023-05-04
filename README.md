@@ -4,6 +4,8 @@
 
 This is a mysql application for the backend of an e-commerce site. The motivation behind this application was to further develop my skills with working in mysql, and sequelize to build an interactive backend for an e-commerce site.
 
+## Walk Through Video
+
 
 ## Table of Contents
 
