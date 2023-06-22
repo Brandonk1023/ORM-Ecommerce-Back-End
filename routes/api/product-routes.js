@@ -33,7 +33,7 @@ router.get('/:id', (req, res) => {
     },
     include: [
       {
-        model: category
+        model: Category
       },
       {
         model: Tag,
