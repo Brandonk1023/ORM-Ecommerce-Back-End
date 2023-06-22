@@ -37,7 +37,7 @@ To start using the program the user will need to first seed the database, then s
 
 The user is then able to use the application and use different routes to get different data or information.
 
-`http://localhost:3001/`
+`http://localhost:3001/api`
 
 The user is then able to use the following to access further routes.
 `/categories`
