@@ -5,7 +5,7 @@
 This is a mysql application for the backend of an e-commerce site. The motivation behind this application was to further develop my skills with working in mysql, and sequelize to build an interactive backend for an e-commerce site.
 
 ## Walk Through Video
-
+https://youtu.be/rItD2kV0dv4
 
 ## Table of Contents
 
@@ -57,6 +57,12 @@ https://github.com/coding-boot-camp/fantastic-umbrella
 
 Starter Code Contributor:
 Xandromus:  https://github.com/Xandromus
+
+Insomnia Documentation:
+https://docs.insomnia.rest/
+
+Sequelize Documentation:
+https://sequelize.org/
 
 
 ## License
